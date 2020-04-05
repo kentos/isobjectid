@@ -6,7 +6,11 @@
   "scripts": {
     "test": "jest"
   },
-  "author": "",
+  "author": "@kentos",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kentos/isobjectid.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "jest": "^25.2.7"
