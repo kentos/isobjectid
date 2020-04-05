@@ -1,5 +1,5 @@
 {
-  "name": "isobjectid",
+  "name": "@kentos/isobjectid",
   "version": "1.0.0",
   "description": "Check if string is a valid ObjectID without knowing more than the format",
   "main": "index.js",
