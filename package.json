@@ -1,11 +1,14 @@
 {
   "name": "isobjectid",
   "version": "1.0.0",
-  "description": "Check if string is an ObjectID",
+  "description": "Check if string is a valid ObjectID without knowing more than the format",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.2.7"
+  }
 }
