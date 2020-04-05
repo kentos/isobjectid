@@ -10,6 +10,7 @@ if (isobjectid(string)) {
 } else {
   // throw an error or whatever you want
 }
+```
 
 # Changelog
 1.0.0 - First release
