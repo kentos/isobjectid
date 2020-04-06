@@ -4,7 +4,7 @@ Small helper library to check if a string is an ObjectID. Comes in handy when th
 
 # Usage
 ```
-const isobjectid = require('isobjectid')
+const isobjectid = require('@kentos/isobjectid')
 if (isobjectid(string)) {
   // go on from here
 } else {
