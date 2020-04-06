@@ -13,4 +13,5 @@ if (isobjectid(string)) {
 ```
 
 # Changelog
+1.0.1 - README and package meta data updates
 1.0.0 - First release
